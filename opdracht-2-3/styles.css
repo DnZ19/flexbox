@@ -24,15 +24,7 @@ body    {
     text-decoration: none;
     padding: 40px;
     color: #F2F3D9;
-    font-family: "Times New Roman", Serif;
 }
-
-
-
-/*#logo {*/
-/*    text-align: left;*/
-/*    text-decoration: none;*/
-/*}*/
 
 .navigation-list {
     display: flex;
@@ -41,12 +33,10 @@ body    {
     justify-content: space-evenly;
     flex-basis: 300px;
     padding: 40px;
-
 }
 
 .nav-item  a {
     text-decoration: none;
-    font-family: "Times New Roman", Serif;
 }
 
 li a {
@@ -76,11 +66,6 @@ header  {
     padding: 50px 30px;
     flex-grow: 0;
     flex-shrink: 1;
-    /*flex-basis: 100px;*/
-    /*flex-grow: 1;*/
-    /*flex-shrink: 0;*/
-    /*flex-wrap: wrap;*/
-/*tweede regel moet na croppen ook gecentreerd worden nog*/
 }
 
 h1  {
